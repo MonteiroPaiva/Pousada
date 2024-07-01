@@ -1,0 +1,7 @@
+@font-face {
+    font-family: Paytel;
+    src: url(./fonts/Cinzel/Playwrite_IT_Moderna/static/Paytel.ttf);
+}
+h1{
+   font-family: Paytel; 
+}

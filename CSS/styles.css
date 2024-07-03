@@ -5,3 +5,28 @@
 h1{
    font-family: Paytel; 
 }
+
+body{
+    background-image: url(../IMG/Casa-de-repouso.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+
+
+}
+
+section{
+    background-color: white;
+    padding: 80px 50px 80px 50px;
+}
+#home img{
+    width: 80%;
+}
+.acomodacao{
+    padding: 100px 100px;
+    text-align: center;
+    color: white;
+    background-color: RGBA(0,
+    0,0,0.8);
+
+}
